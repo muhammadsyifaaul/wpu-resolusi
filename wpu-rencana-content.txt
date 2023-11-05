@@ -3,6 +3,7 @@ rencana content wpu:
   * ES6
   * FRAMEWORK
     ^ vue
+    ^ react
 - Struktur data dasar
 - PHP Framework
     ^ laravel
