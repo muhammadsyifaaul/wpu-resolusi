@@ -2,6 +2,7 @@ rencana content wpu:
 - Javascript
   * ES6
   * FRAMEWORK
+- Struktur data dasar
 - PHP Framework
 - Interview
 - VLOG
